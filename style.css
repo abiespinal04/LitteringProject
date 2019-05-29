@@ -1,0 +1,18 @@
+.navBar{
+    display: inline;
+    text-align: center;
+    flex-direction: row;
+}
+
+.navBar ul{
+    list-style-type: none
+    
+}
+
+nav bar li {
+    display : inline-block;
+}
+
+h1{
+    text-align: center;
+}
