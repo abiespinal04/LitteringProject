@@ -45,7 +45,6 @@ body{
 .listStyle li a {
     display : inline-block;
     width: 60px;
-    margin-left: 750%
   }
 .para{
     color: black;
@@ -56,6 +55,11 @@ body{
 .mainContainer{
     justify-content: center
 }
+
+.nav{
+  text-align: center;
+}
+
 .nav li{
     display: inline-block;
     margin : 20px ;
