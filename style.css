@@ -1,18 +1,35 @@
-.navBar{
-    display: inline;
+.nav{
+   /* display: inline;*/
     text-align: center;
-    flex-direction: row;
-}
-
-.navBar ul{
-    list-style-type: none
+    background-color: green;
     
 }
 
-nav bar li {
-    display : inline-block;
+.nav ul{
+    list-style-type: none;
+    
 }
+/*code for the navigation*/
+.nav li{
+    display: inline-block;
+    margin : 20px ;
+}
+
 
 h1{
     text-align: center;
+}
+
+.card{
+    width: 40%;
+    float: left;
+    margin:auto;
+}
+.after-card{
+    clear: both;
+}
+
+
+.deck{
+    margin-top: 50px;
 }
